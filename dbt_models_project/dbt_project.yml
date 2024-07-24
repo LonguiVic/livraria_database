@@ -1,0 +1,18 @@
+name: 'dbt_models_project'
+version: '1.0'
+config-version: 2
+
+profile: 'dbt_models_project'
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target"]
+
+models:
+  dbt_models_project:
+    staging:
+      +database: livraria
+      +schema: livraria_staging
+    marts:
+      +schema: livraria_materialized
+      +materialized: table
