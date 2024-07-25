@@ -352,3 +352,9 @@ Os seguintes dashboards foram criados no Grafana para visualização dos dados:
 ## Contribuições
 
 Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
+
+## Imagens do projeto
+![image](https://github.com/user-attachments/assets/d6105976-bcb9-4010-adee-9e0b1cc0c17d)
+![image](https://github.com/user-attachments/assets/0beb6139-736f-4d66-b2c2-cbd38554392f)
+
+
